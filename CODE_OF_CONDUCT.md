@@ -1,4 +1,4 @@
-### Contributor Covenant Code of Conduct
+### Code of Conduct
 
 ### Our Pledge
 
@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [INSERT CONTACT EMAIL/METHOD]. All complaints will be reviewed and investigated promptly and fairly. 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at **[INSERT CONTACT EMAIL/METHOD]**. All complaints will be reviewed and investigated promptly and fairly. 
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident. 
 
@@ -52,12 +52,12 @@ Community leaders will follow these Community Impact Guidelines in determining t
 ### 2. Warning
 
 **Community Impact:** A violation through a single incident or series of actions.
-**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban. 
+**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. Violating these terms may lead to a temporary or permanent ban. 
 
 ### 3. Temporary Ban
 
 **Community Impact:** A serious violation of community standards, including sustained harassing behavior.
-**Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the project, repository, or community spaces, including social media channels, is allowed during this period. Violating these terms may lead to a permanent ban. 
+**Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the project or community spaces is allowed during this period. 
 
 ### 4. Permanent Ban
 
